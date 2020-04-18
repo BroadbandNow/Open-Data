@@ -1,7 +1,7 @@
 # Open-Data
 
 # County Pricing and Provider Data
-This data utilizes BroadbandNow's proprietary plans and pricing data of over 4000 terrestrial broadband providers and the FCC's latest Form 477 data.
+This data utilizes BroadbandNow's proprietary plans and pricing data of over 2000 terrestrial broadband providers and the FCC's latest Form 477 data.
 
 ### Data Fields Appended to the broadband_data
 Wired Providers 25 Mbps;
@@ -11,7 +11,7 @@ Terrestrial Providers 100 Mbps;
 Wired Lowest Priced Plan 25 Mbps;
 Terrestrial Lowest Priced Plan 25 Mbps;
 Wired Lowest Priced Plan 100 Mbps;
-Terrestrial Lowest Priced Plan 100 Mbps
+Terrestrial Lowest Priced Plan 100 Mbps;
 
 ### Data Definitions
 Wired Providers 25 Mbps: The number of providers covering at least 1% of a county's population whose maximum download speed available in the county is at least 25 mbps and maximum available upload speed is at least 3 mbps. These providers also must service the residential market and be a wired technology (DSL, Cable, and Fiber).
