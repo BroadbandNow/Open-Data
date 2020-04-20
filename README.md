@@ -1,7 +1,7 @@
 # Open-Data
 
 # County Pricing and Provider Data
-This data utilizes BroadbandNow's proprietary plans and pricing data of over 4000 terrestrial broadband providers and the FCC's latest Form 477 data.
+This data utilizes BroadbandNow's proprietary plans and pricing data of over 2000 terrestrial broadband providers and the FCC's latest Form 477 data.
 
 ### Data Fields Appended to the broadband_data
 Wired Providers 25 Mbps;
