@@ -11,7 +11,7 @@ Terrestrial Providers 100 Mbps;
 Wired Lowest Priced Plan 25 Mbps;
 Terrestrial Lowest Priced Plan 25 Mbps;
 Wired Lowest Priced Plan 100 Mbps;
-Terrestrial Lowest Priced Plan 100 Mbps;
+Terrestrial Lowest Priced Plan 100 Mbps
 
 ### Data Definitions
 Wired Providers 25 Mbps: The number of providers covering at least 1% of a county's population whose maximum download speed available in the county is at least 25 mbps and maximum available upload speed is at least 3 mbps. These providers also must service the residential market and be a wired technology (DSL, Cable, and Fiber).
@@ -48,5 +48,8 @@ This data is as of April 2020. Any plan that has been active in April 2020 was c
 ## Authors
 Julia Tanberk - Manager of Analytics & Data Science at BroadbandNow (BroadbandNow.com)
 
+## Questions
+Please contact us at help@broadbandnow.com if you have questions about the data.
+
 ## License
-This project is for the use of Microsoft Open Data.
+The provided data is licensed under the Open Use of Data Agreement v1.0 - https://github.com/microsoft/Open-Use-of-Data-Agreement/blob/master/O-UDA-1.0.md
