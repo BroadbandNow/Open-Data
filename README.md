@@ -3,6 +3,9 @@
 # Zipcode Competition & Pricing Data
 This data utilizes BroadbandNow's proprietary plans and pricing data of over 4000 terrestrial broadband providers and the FCC's latest Form 477 data.
 
+### Updated 
+1/6/2021: updated file to provide some missing US zip codes and correct formatting error
+
 ### Data Fields Appended to the broadband_data
 Zip;
 Population;
