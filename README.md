@@ -5,6 +5,7 @@ This data utilizes BroadbandNow's proprietary plans and pricing data of over 400
 
 ### Updated 
 1/6/2021: updated file to provide some missing US zip codes and correct formatting error
+1/8/2021: updated on request to add Alaska PO Box zip codes
 
 ### Data Fields Appended to the broadband_data
 Zip;
